@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mitesh512 working as an AI ML Engineer. Have 5 years of experience in data driven decision making.
+- 👋 Hi, I’m @Mitesh512 working as an AI ML Engineer. Have 5 years of experience in data-driven decision making.
 - 👀 curious about maths in AI ML, it is fascinating and indulging.
 - 🌱 I believe in continuous learning and enhancing knowledge.
 
